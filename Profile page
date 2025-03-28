@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Profile</title>
+  </head>
+
+  <body>
+
+    <header>
+      <h1>My Profile</h1>
+      <nav>
+        <ul>
+          <li>About Me</li>
+          <li>Hobbies</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="Bio Section">
+      <h2>BIO</h2>
+      <p>Hello! I am Godgift Peter. I am passionate about learning and growing in the field of web development.</p>
+      <img src="placeholder.jpg" alt="Placeholder image">
+    </section>
+
+    <section class="Hobbies">
+      <ul>
+        <li>Traveling</li>
+        <li>Sports</li>
+        <li>Coding</li>
+      </ul>
+    </section>
+
+    <footer>
+         <p>Contact: myemail@example.com</p>
+         <p>Follow me on social media: @mysocialmediahandle</p>
+    </footer>
+  </body>
+</html>
